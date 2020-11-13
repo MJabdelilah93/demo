@@ -1,14 +1,53 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+[{
+    "locale": "en_GB",
+    "id": "141101077-white",
+    "availability": "in stock",
+    "image_link": "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw51b83be3/images/large/141101077200_mp_1_MERCEDES.jpg?sw=800&sh=800&sm=fit",
+    "link": "https://www.fuelforfans.com/gb/en/mercedes-amg-petronas-lewis-hamilton-2020-team-flatbrim-cap/141101077-white.html?channable=0229ab6964003134313130313037372d7768697465fe",
+    "size": [],
+    "price": "38.00 GBP",
+    "sale_price": [],
+    "title": "Lewis Hamilton 2020 Team Flatbrim Cap",
+    "gender": "unisex",
+    "driver": [],
+    "brand": "Mercedes-AMG Petronas",
+    "color": "white",
+    "age": [],
+    "custom_label_2": "headwear",
+    "item_group_id": "141101077-white",
+    "description": "The first ever Mercedes F1 cap range produced from 100% recycled materials. Support your favourite driver by wearing the Lewis Hamilton Flatbrim Cap featuring sponsor and team logos.",
+    "custom_label_0": "2020",
+    "additional_image_link": [
+        "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw782bc3e1/images/large/141101077200_mp_2_MERCEDES.jpg?sw=800&sh=800&sm=fit",
+        "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1f8d7d76/images/large/141101077200_pp_1_MERCEDES.jpg?sw=800&sh=800&sm=fit",
+        "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwba5ffcec/images/large/141101077200_pp_2_MERCEDES.jpg?sw=800&sh=800&sm=fit",
+        "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3d179fde/images/large/141101077200_pp_3_MERCEDES.jpg?sw=800&sh=800&sm=fit",
+        "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe4d761fa/images/large/141101077200_pp_4_MERCEDES.jpg?sw=800&sh=800&sm=fit"
+    ]
+},{
+    "locale": "en_GB",
+    "id": "141101077200000",
+    "availability": "in stock",
+    "image_link": "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw51b83be3/images/large/141101077200_mp_1_MERCEDES.jpg?sw=800&sh=800&sm=fit",
+    "link": "https://www.fuelforfans.com/gb/en/mercedes-amg-petronas-lewis-hamilton-2020-team-flatbrim-cap/141101077200000.html?channable=0229ab696400313431313031303737323030303030a6",
+    "size": "One size",
+    "price": "38.00 GBP",
+    "sale_price": [],
+    "title": "Lewis Hamilton 2020 Team Flatbrim Cap",
+    "gender": "unisex",
+    "driver": [],
+    "brand": "Mercedes-AMG Petronas",
+    "color": "white",
+    "age": [],
+    "custom_label_2": "headwear",
+    "item_group_id": "141101077-white",
+    "description": "The first ever Mercedes F1 cap range produced from 100% recycled materials. Support your favourite driver by wearing the Lewis Hamilton Flatbrim Cap featuring sponsor and team logos.",
+    "custom_label_0": "2020",
+    "additional_image_link": [
+        "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw782bc3e1/images/large/141101077200_mp_2_MERCEDES.jpg?sw=800&sh=800&sm=fit",
+        "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1f8d7d76/images/large/141101077200_pp_1_MERCEDES.jpg?sw=800&sh=800&sm=fit",
+        "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwba5ffcec/images/large/141101077200_pp_2_MERCEDES.jpg?sw=800&sh=800&sm=fit",
+        "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3d179fde/images/large/141101077200_pp_3_MERCEDES.jpg?sw=800&sh=800&sm=fit",
+        "https://www.fuelforfans.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe4d761fa/images/large/141101077200_pp_4_MERCEDES.jpg?sw=800&sh=800&sm=fit"
+    ]
 }
